@@ -7,6 +7,7 @@
    - No stages in pipelines
    - Terrible UX
    - Runners don't provide info which are busy and what they are busy with. Compared to Azure Devops agents which show exact status/version etc.
+   - Output while running workflow doesn't show everything. Need to use the Raw log to view it
 - 💞️ I’m looking to collaborate on HBK products
 - 📫 How to reach me: If you don't know me, there is no reason to reach me
 

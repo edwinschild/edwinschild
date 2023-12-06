@@ -10,6 +10,7 @@
    - Output while running workflow doesn't show everything. Need to use the Raw log to view it
    - No idea how much time a single task takes
    - Uploading a folder to artifacts doesn't allow you to expand it as folder in the end result artifacts. Clicking it results immediately in downloading it
+   - Secrets are not really a secret. In Azure Devops a pipeline needs to be approved in order to use a secret. In github any workflow can use a secret and therefor make it accessible
 - 💞️ I’m looking to collaborate on HBK products
 - 📫 How to reach me: If you don't know me, there is no reason to reach me
 

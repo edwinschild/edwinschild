@@ -12,6 +12,7 @@
    - Uploading a folder to artifacts doesn't allow you to expand it as folder in the end result artifacts. Clicking it results immediately in downloading it
    - Secrets are not really a secret. In Azure Devops a pipeline needs to be approved in order to use a secret. In github any workflow can use a secret and therefor make it accessible
    - Case sensitive UI. When typing branchname who cares about upper and lower case
+   - Required code reviewers is something GitHub isn't good at
 - 💞️ I’m looking to collaborate on HBK products
 - 📫 How to reach me: If you don't know me, there is no reason to reach me
 

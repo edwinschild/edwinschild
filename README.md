@@ -8,6 +8,7 @@
    - Terrible UX
    - Runners don't provide info which are busy and what they are busy with. Compared to Azure Devops agents which show exact status/version etc.
    - No way to see which tasks were executed by a specific runner
+   - No way to temporarily disable a runner when it keeps producing the same errors
    - Output while running workflow doesn't show everything. Need to use the Raw log to view it
    - No idea how much time a single task takes
    - Uploading a folder to artifacts doesn't allow you to expand it as folder in the end result artifacts. Clicking it results immediately in downloading it
